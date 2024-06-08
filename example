@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Eğitim Ders</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            width: 300px;
+            padding: 5px;
+        }
+    </style>
+    <script src="Example2.js"></script>
+</head>
+<body>
+    <button onclick="example()">Eğitim Setlerini Listele</button>
+    <br><br>
+    <table id="result"></table>
+</body>
+</html>

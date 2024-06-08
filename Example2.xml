@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="uft-8"?>
+<catalogue>
+   <sets>
+       <content>Javascript Eğitim Seti</content>
+       <instructor>Ali ABLAK</instructor>
+       <price>165,00 TL</price>
+   </sets>
+    <sets>
+       <content>HTML Eğitim Seti</content>
+       <instructor>Ali ABLAK</instructor>
+       <price>125,00 TL</price>
+   </sets>
+   <sets>
+       <content>CSS Eğitim Seti</content>
+       <instructor>Ali ABLAK</instructor>
+       <price>145,00 TL</price>
+   </sets>   
+</catalogue>       
